@@ -2,6 +2,7 @@
 Here is some of my front end portfolio work.
 
 1 - The Plan Partner app project - I built these complete parts (React front end, and SQL back end):
+
 Activity Types - https://reprod.azurewebsites.net/#/app/activitytypes
 Conversion Rates - https://reprod.azurewebsites.net/#/app/conversionrates
 
