@@ -1,14 +1,20 @@
 # portfolio-links
 Here is some of my front end portfolio work.
 
-The Plan Partner - Activity Types video walk-through (front end React, I also built the SQL back end)
-https://vimeo.com/309425245
+1 - The Plan Partner app project - I built these complete parts (React front end, and SQL back end):
+Activity Types - https://reprod.azurewebsites.net/#/app/activitytypes
+Conversion Rates - https://reprod.azurewebsites.net/#/app/conversionrates
 
-Sync Masters (front end example including sound file hosting)
+Video walk-through of the Activity Types front end (React)
+https://vimeo.com/309425245
+This video shows part of "The Plan Partner" app, which is shown at https://reprod.azurewebsites.net
+
+
+2 - Sync Masters (front end example including sound file hosting)
 http://www.syncmasters.net
 
-PKB Marketing (front end HTML example)
+3 - PKB Marketing (front end HTML example)
 http://www.pkbmarketing.com
 
-Skyward Aviation (front end HTML example)
+4 - Skyward Aviation (front end HTML example)
 http://skyward-aviation.com
