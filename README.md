@@ -8,7 +8,9 @@ Conversion Rates - https://reprod.azurewebsites.net/#/app/conversionrates
 
 Video walk-through of the Activity Types front end (React)  
 https://vimeo.com/309425245  
-This video shows part of "The Plan Partner" app
+
+
+
 
 
 2 - Sync Masters (front end example including sound file hosting)
